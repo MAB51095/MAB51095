@@ -1,13 +1,12 @@
 Hi 👋 My name is Md Abdul Basith JH
 ===================================
 
-Full stack developer
+Full stack .NET developer
 --------------------
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [mab51095@gmail.com](mailto:mab51095@gmail.com)
-* 🧠  I'm learning WebRTC with react
-* 🤝  I'm open to collaborating on Any react projects
+
 
 ### Skills
 
